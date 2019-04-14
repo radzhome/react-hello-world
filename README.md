@@ -21,3 +21,9 @@ https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
 1. Babel loader is used to convert js/jsx code into something all browsers understand (loaders in webpack.config.js)
 
 
+
+
+### Resources
+---
+
+1. https://github.com/buckyroberts/React-Boilerplate
